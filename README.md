@@ -8,11 +8,11 @@ O projeto inteiro contem anotações e pensamentos que foram feitos no decorrer 
 # Para rodar o projeto 
 Em seu computador crie um arquivo "config.py" com as seguintes informações
 
-USERNAME = SEU_USERNAME
-PASSWORD = SUA_SENHA
-SYMBOL = SYMBOL_DESEJADO
-TIMEFRAME = SEU_TIMEFRAME
-CANDLES = N_CANDLES_DESEJADAS
+USERNAME = SEU_USERNAME<br/>
+PASSWORD = SUA_SENHA<br/>
+SYMBOL = SYMBOL_DESEJADO<br/>
+TIMEFRAME = SEU_TIMEFRAME<br/>
+CANDLES = N_CANDLES_DESEJADAS<br/>
 
 Libs:
 - tensorflow 2.13.0
